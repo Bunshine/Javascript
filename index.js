@@ -1,1 +1,3 @@
-console.log('Hello world');
+const { helloWorld } = require('./assignments/helloWorld');
+
+helloWorld();
